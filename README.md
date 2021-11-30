@@ -10,7 +10,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucas-gomes-caldas-4264b4205/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:lggomes007@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucas-gomes-caldas-4264b4205/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:lggomes007@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://t.me/lucasgcaldas"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 
 <!-- - 😄 Pronouns: ... -->
@@ -18,7 +18,9 @@
 
 <div align="center">
   <a href="https://github.com/lucasgcaldas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgcaldas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgcaldas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgcaldas&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgcaldas&layout=compact&langs_count7&theme=dark"/>
 </div>
+  
+  
  
